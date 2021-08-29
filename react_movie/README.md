@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# TMDB API Key Info
+
+This is a movie project made by using ReactJS, CSS, HTML, and JavaScript. There are usage of Styled Components, React Hooks, Custom Hooks and React Router (v6). 
+
+This project fetches data from TMDB API. The URL for the TMDB API is : https://www.themoviedb.org/. For safety and security reasons I have not shared the API key in the Github repo of this project.
+
+In case if anyone wants to create his/her API key for this running this project. Please follow the below the steps:
+
+1. Go to the TMDB website. The URL of this website is https://www.themoviedb.org/.
+2. To create a new account on TMDB, click on Join TMDB and create your username and password and submit them.
+3. After account creation, login with the username and password you created.
+4. Click on your profile icon, then click on Settings -> API.
+5. After clicking on API, click on "click here" link under the heading "Request an API Key".
+6. Click on Developer option. After this, it will ask for some details. Fill those details and submit them. You will get your API key after that.
+7. Create an .env file in the project. Type "REACT_APP_API_KEY =" and after '=' sign input your API key.
+8. Run the Application using npm start.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
