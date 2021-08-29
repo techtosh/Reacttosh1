@@ -1,5 +1,7 @@
 # TMDB API Key Info
 
+NOTE: "This product uses the TMDB API but is not endorsed or certified by TMDB."
+
 This is a movie project made by using ReactJS, CSS, HTML, and JavaScript. There are usage of Styled Components, React Hooks, Custom Hooks and React Router (v6). 
 
 This project fetches data from TMDB API. The URL for the TMDB API is : https://www.themoviedb.org/. For safety and security reasons I have not shared the API key in the Github repo of this project.
