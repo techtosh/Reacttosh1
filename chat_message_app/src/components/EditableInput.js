@@ -20,6 +20,7 @@ const EditableInput = ({ initialValue, onSave, label = null, placeholder= "Write
 
         if(trimmed === '') {
             Alert.info(emptyMsg, 4000);
+            return;
         }
 
         if(trimmed !== initialValue) {
